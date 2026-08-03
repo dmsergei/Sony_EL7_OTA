@@ -2,12 +2,12 @@
     "project": "Sony EL7 ESP32",
     "board": "ESP32-WROOM-32E",
 
-    "version": "1.0.56",
+    "version": "1.0.57",
 
-    "build_date": "2026-08-02",
-    "build_time": "19:02:04",
+    "build_date": "2026-08-03",
+    "build_time": "15:35:21",
 
     "url": "https://raw.githubusercontent.com/dmsergei/Sony_EL7_OTA/main/firmware/Sony_EL7_ESP32.bin",
 
-    "size": 1867568
+    "size": 1872400
 }
